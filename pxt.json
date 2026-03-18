@@ -1,0 +1,32 @@
+{
+    "name": "Basic Boss Fight",
+    "description": "",
+    "dependencies": {
+        "device": "*"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md",
+        "assets.json",
+        "tilemap.g.jres",
+        "tilemap.g.ts",
+        "images.g.jres",
+        "images.g.ts"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "branch": "v2.0.63",
+        "tag": "v2.0.63",
+        "commits": "https://github.com/microsoft/pxt-arcade/commits/5f6dbe1863a184bb2cde85fd93133e94e9719e03",
+        "target": "4.0.12",
+        "pxt": "11.3.68",
+        "targetId": "arcade"
+    },
+    "supportedTargets": [
+        "arcade"
+    ],
+    "preferredEditor": "tsprj"
+}
